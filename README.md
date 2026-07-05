@@ -293,7 +293,7 @@ This project is licensed under the MIT License.
 AI Data Analyst
 
 - LinkedIn: www.linkedin.com/in/erna-susilowati
-- GitHub: https://github.com/yourusername
+- GitHub: [https://github.com/ESusilowati-Ab]
 
 ---
 
